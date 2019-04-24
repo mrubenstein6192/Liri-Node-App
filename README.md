@@ -27,8 +27,22 @@ The user will input a movie title following this command and retrive the followi
   * Plot of the movie.
   * Actors in the movie.
 
-### 4) do-what-says
+### 4) do-what-it-says
 
 If the user inputs this command, he/she will be prompted with a suggested action.
 
 (When I tried to have this command automatically perform my spotify function, it broke.)
+
+## Technologies Used
+
+- Spotify API
+- Axios
+- OMDB API
+- Bands in Town API
+- Moment
+- DotEnv
+- Node and JS
+
+### Author
+
+Mike Rubenstein
