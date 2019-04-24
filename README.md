@@ -4,11 +4,13 @@
 
 The Liri app will allow users to seek more information from either a song name, artist he/she wishes to see in concert, or a movie.  
 
-After typing "node liri.js", the user will input one of three commands:
+After typing "node liri.js", the user will input one of four commands:
 
 ### 1) spotify-this-song
 
 The user will input a song following this command and retrieve the artits name, album name, and a preview URL of the song.
+
+![spotify-image](https://raw.githubusercontent.com/mrubenstein6192/liri-node-app/master/screenshots/spotify-this-song.png")
 
 ### 2) concert-this
 
