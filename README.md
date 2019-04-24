@@ -10,7 +10,7 @@ After typing "node liri.js", the user will input one of four commands:
 
 The user will input a song following this command and retrieve the artits name, album name, and a preview URL of the song.
 
-![spotify-image](https://raw.githubusercontent.com/mrubenstein6192/liri-node-app/master/screenshots/spotify-this-song.png")
+![spotify-image]("https://raw.githubusercontent.com/mrubenstein6192/liri-node-app/master/screenshots/spotify-this-song.png")
 
 ### 2) concert-this
 
