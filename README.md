@@ -6,8 +6,8 @@ The Liri app will allow users to seek more information from either a song name, 
 
 After typing "node liri.js", the user will input one of three commands:
 
-### spotify-this-song
+### 1) spotify-this-song
 
 The user will input a song and retrieve the artits name, album name, and a preview URL of the song.
 
-![spotify-this-song image]("./screenshots/spotify-this-song.png)
+![Spotify Image]("/Liri-Node-App/screenshots/spotify-this-song.png)
